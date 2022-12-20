@@ -14,4 +14,5 @@ Retrieved Netflix Data from Kaggle via this link [Kaggle Link](https://www.kaggl
 
 5. What is the movie show distribution percentage? 
 
+[Live Tableau Link](https://public.tableau.com/app/profile/jeremiah.m3635/viz/NetflixStats_16715205215290/Dashboard1?publish=yes)
 ![Netflix](https://user-images.githubusercontent.com/86543368/208607596-3696e10c-8c4b-461c-84c0-096e02c49d91.png)
